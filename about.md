@@ -9,5 +9,4 @@ Estudiante de 19 años de la Universidad de Guayaquil en la facultad de Ciencias
 
 Email: <a href="mailto:{{andres.zambranosa.ug.edu.ec}}?Subject=From Blog Site:">{{andres.zambranosa@ug.edu.ec}}</a>
 
-## Resume
 
