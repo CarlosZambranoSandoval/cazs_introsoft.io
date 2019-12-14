@@ -1,13 +1,11 @@
-title: Tauseef Jamadar
-description: Stuff that I come across and find interesting.
-author: Tauseef Jamadar
-email: tmjam.ahmed@gmail.com
-phone: (650) 576-5403
-github: https://github.com/tmjam
-about: I am a Software Engineer at <a href="https://www.build.com" target="_blank">Build.com</a> and a freelance developer. I love working on backend and frontend technologies.
-disqus_shortname: programming
-google_analytics: UA-31048387-6
-avatar_url: /static/img/me.jpg
+title: Carlos Zambrano - Perfil profesional
+description: Webpage profesional
+author: Carlos Zambrano Sandoval
+email: andres.zambranosa@ug.edu.ec
+phone: +593 98 377 4971
+github: github.com/CarlosZambranoSandoval
+about: Actual estudiante de la carrera de Software en la Universidad de Guayaquil.
+avatar_url: https://avatars1.githubusercontent.com/u/57646982?s=460&v=4
 
 enableTags: true
 tagarray: []
@@ -19,31 +17,25 @@ collections:
 
 social:
     - icon: fa-facebook
-      link: "https://www.facebook.com/tjamadar"
-    - icon: fa-twitter
-      link: "https://twitter.com/tmjam3011"
-    - icon: fa-linkedin
-      link: "https://www.linkedin.com/in/tauseef-jamadar-5b577913/"
+      link: "https://www.facebook.com/carlosandres.zambranosandoval"
     # - icon: fa-stack-exchange
     #   link: "#"
     - icon: fa-github
-      link: "https://github.com/tmjam"
+      link: "https://github.com/CarlosZambranoSandoval"
 
 share:
-  twitter_username: tmjam3011
+  twitter_username: cazs
   # fb_appid: 1749788565247320
 
 urls:
-    - text: About Me
-      url: /about/
-    - text: Projects
-      url: /projects/
+    - text: Datos personales
+      url: /datos/
+    - text: Clases
+      url: /clases/
     - text: Blogs
       url: /blogs/
-    - text: XML Feed
-      url: /feed.xml
 # url: "http://localhost:4000"
-url: "https://tmjam.github.io/tauseef-blog"
+url: "https://carloszambranosandoval.github.io/cazs_introsoft.io/"
 baseurl: ""
 paginate: 20
 per_page: 20
