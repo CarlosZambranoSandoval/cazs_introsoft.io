@@ -1,7 +1,7 @@
 ---
-layout: project
-title: Projects
-permalink: /projects/
+layout: clases
+title: Clases
+permalink: /clases/
 ---
 
-Few of my projects. Currently doing more in backend, focused in Python and Django.
+Estas son algunas de las clases impartidas en la asignatura de Introducción a la Ingeniería de Software. 
